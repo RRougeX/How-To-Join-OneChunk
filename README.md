@@ -34,7 +34,7 @@ Custom Minecraft Bedrock server with **Factions** and **Skyblock**, built for lo
 OneChunk supports **Mobile, PC, and Console**.
 
 **Console players:**  
-Add **OneChunkMC** inside Minecraft to join.
+Add **JoinOC** inside Minecraft to join.
 
 ━━━━━━━━━━━━━━━━
 
